@@ -1,0 +1,7 @@
+background_images/
+generated_images/
+wandb/
+yolov5/
+*.pt
+data.yaml
+*.zip
